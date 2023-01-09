@@ -117,7 +117,7 @@ Parsley,2 T.,50,2,t,t,0,t,t,Vegetables
 Parsnips,1 cup,155,95,2,1,0,3,22,Vegetables
 Peas,1 cup,100,66,3,t,0,0.1,13,Vegetables
 "Fresh, steamed peas",1 cup,100,70,5,t,0,2.2,12,Vegetables
-Frozen peas,1 cup,100,,5,t,0,1.8,12,Vegetables
+Frozen peas,1 cup,100,0,5,t,0,1.8,12,Vegetables
 Split cooked peas,4 cups,100,115,8,t,0,0.4,21,Vegetables
 heated peas,1 cup,100,53,3,t,0,1,10,Vegetables
 Peppers canned,1 pod,38,10,t,t,0,t,2,Vegetables
